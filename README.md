@@ -1,1 +1,1 @@
-# stockfighter
+My Attempt at solving challanges at https://www.stockfighter.io
